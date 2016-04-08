@@ -1,0 +1,52 @@
+html, body {height:100%;}
+body{
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#000066+0,2989d8+40,7db9e8+100 */
+background: #000066; /* Old browsers */
+background: -moz-linear-gradient(45deg, #000066 0%, #2989d8 40%, #7db9e8 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(45deg, #000066 0%,#2989d8 40%,#7db9e8 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(45deg, #000066 0%,#2989d8 40%,#7db9e8 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000066', endColorstr='#7db9e8',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+max-height: 100%;
+}
+
+body .fc {
+    font-size: 0.8em;
+}
+
+
+.navbar-inverse{
+background-color: ;
+border-color: none;
+
+}
+
+footer{
+    padding:2px;
+    background-color: #f2f2f2;
+
+}
+.footer {
+    position:absolute;
+    bottom:0;
+    width:100%;
+}
+.footer p{
+    margin:0px 0px 0px
+}
+#login h1{
+    color:#FFFFFF;
+    font-size: 25px;
+}
+
+#login img{
+    padding-top: 100px;
+    padding-bottom: 20px;
+}
+
+.container .row{
+    padding-top: 10px;
+}
+
+.row .col-sm-4{
+    margin:5px;
+}
